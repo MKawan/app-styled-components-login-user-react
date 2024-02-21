@@ -9,7 +9,7 @@ export const ButtonContainer = styled.button`
     color: #fff;
     padding: 2px 12px;
     min-width: 120px;
-    width: 100%;
+    width: 60%;
     
     &:hover{
         opacity: 0.6;
