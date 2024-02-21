@@ -39,32 +39,28 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Requeriment
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## `npm i styled-components`
 
-### Code Splitting
+## `npm i axios`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## `npm i react-hook-form`
 
-### Analyzing the Bundle Size
+## `npm i react-router-dom`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## `npm i uuid`
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Captura de Tela (175)](https://github.com/MKawan/app-styled-components-login-user-react/assets/51447066/c4d64c14-ecee-4aee-8f49-eee95a70de11)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Captura de Tela (173)](https://github.com/MKawan/app-styled-components-login-user-react/assets/51447066/3c0a23d7-dde4-4854-b910-e1912182d33f)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Captura de Tela (182)](https://github.com/MKawan/app-styled-components-login-user-react/assets/51447066/550bee30-26e5-4b13-ae71-12a0f27b5c60)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Captura de Tela (174)](https://github.com/MKawan/app-styled-components-login-user-react/assets/51447066/ccbdbd99-39f3-4682-a8d6-cd2e7bcb110e)
+
